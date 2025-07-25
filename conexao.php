@@ -1,5 +1,5 @@
 <?php
-define('HOST', '127.0.0.1');
+define('HOST', 'mysql.soares-hamon.svc');
 define('USUARIO', 'user');
 define('SENHA', 'pass');
 define('DB', 'login');
